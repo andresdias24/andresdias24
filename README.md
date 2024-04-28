@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @andresdias24
-- 👀 I’m interested in develop web
-- 🌱 I’m currently learning PYTHON
+👋 ¡Hola! Soy @andresdias24
 
-<!---
-andresdias24/andresdias24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Estoy interesado en el desarrollo web.
+
+🌱 Actualmente estoy aprendiendo PYTHON.
+
+🚀 Mis habilidades incluyen:
+   - JavaScript
+   - Google Cloud Platform (GCP)
+   - Docker
+   - React
+   - MongoDB
+   - Node.js
+   - UX
+
+💼 Tengo experiencia en integraciones y desarrollo de aplicaciones web escalables.
+
+¡Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme!
