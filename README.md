@@ -1,18 +1,30 @@
-👋 ¡Hola! Soy @andresdias24
+# 👋 ¡Hola! Soy @andresdias24
 
-👀 Estoy interesado en el desarrollo web.
+## 👀 Intereses
+Estoy apasionado por el **desarrollo web** y siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.
 
-🌱 Actualmente estoy aprendiendo PYTHON.
+## 🌱 En proceso de aprendizaje
+Actualmente estoy profundizando en **PYTHON** para ampliar mis conocimientos y añadir nuevas herramientas a mi repertorio.
 
-🚀 Mis habilidades incluyen:
-   - JavaScript
-   - Google Cloud Platform (GCP)
-   - Docker
-   - React
-   - MongoDB
-   - Node.js
-   - UX
+## 🚀 Habilidades
+Aquí están algunas de las tecnologías y herramientas con las que tengo experiencia:
+- **JavaScript**
+- **Google Cloud Platform (GCP, AZURE, AWS)**
+- **Docker**
+- **React**
+- **MongoDB**
+- **Node.js**
+- **UX/UI Design**
 
-💼 Tengo experiencia en integraciones y desarrollo de aplicaciones web escalables.
+## 💼 Experiencia
+Tengo una sólida experiencia en:
+- **Desarrollo de aplicaciones web escalables**.
+- **Integraciones** que mejoran la funcionalidad y el rendimiento de aplicaciones.
 
-¡Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme!
+## 🤝 ¡Colaboremos!
+¿Tienes alguna pregunta o te gustaría colaborar en algún proyecto? ¡No dudes en contactarme!
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andresdias24-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andresdias24)
+[![GitHub](https://img.shields.io/badge/GitHub-andresdias24-black?style=flat-square&logo=github)](https://github.com/andresdias24)
