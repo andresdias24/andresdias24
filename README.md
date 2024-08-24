@@ -2,8 +2,6 @@
 
 ## 👀 Intereses
 Estoy apasionado por el **desarrollo web** y siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.
-
-## 🌱 En proceso de aprendizaje
 Actualmente estoy profundizando en **PYTHON** para ampliar mis conocimientos y añadir nuevas herramientas a mi repertorio.
 
 ## 🚀 Habilidades
